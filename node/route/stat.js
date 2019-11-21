@@ -1,7 +1,7 @@
 var mysql_dbc = require('../DB/db')();
 var connection = mysql_dbc.init()
 
-const show_stat = function(req, res){ //한달동안의 positive, negative, soso를 불러와서 그걸 평균내서 json으로 안드에 보냄. 그리고... 그냥 쌩 데이터도 보냄. ㅎㅎ 이러면 끗!
+const show_stat = function(req, res){
     req.on('data', function(data){ 
         var content = JSON.parse(data);
      });
