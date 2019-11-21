@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\8516ac599c0f39cda6e75249f41fc5c3\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\617b01740c113f7e30a40704763698d9\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\848337694e969f557867fc4c71ee4df1\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\de983ce595cc890b2d4203f95c95cbc2\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\931dc0732495a48676338e3096e222d8\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\1606b3689a512e702c708aeff54dc275\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\53a136253a346194954ba8d49e55508c\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\0053af6d543e80f2eca2dfa34c8f8cd4\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\54d979b97cccdbacfd20983c6e6fa172\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\694c26a5b2f5f971c67e70ae0fee62cd\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\6686ec5f2e2ab44ae21c1eb445c99a3b\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\25f9131f098f8a4ac4a98754913f6b72\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\a7f0b0af0b8bf1f81bd2e824811a5547\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\58f91a9ca0994ae02be35d76a8d8620d\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\f2e189d9c9c6a4d1eca5e283d6c960d7\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\f8071bc478da969c504fd95a5be6aaf8\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\aeb7294d6d68d8c7eedcd7bf25b6a920\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ade294bed9caf3f29b70e263efe27c86\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\b550f02102518269b5ae49ce098d1bbd\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ecf2828b954b598dde19702f30d5ac54\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\780607b29fa9b8b916b13db491ef41f2\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\178d52fd0f4d875d0c412c649f532470\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\d8ef00b68490a45f49fd0664d6982489\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\a0712c74e2562104cfa1829d4f9a06a2\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.moodlet.MainActivity
+ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\8516ac599c0f39cda6e75249f41fc5c3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\8516ac599c0f39cda6e75249f41fc5c3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\617b01740c113f7e30a40704763698d9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\617b01740c113f7e30a40704763698d9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\848337694e969f557867fc4c71ee4df1\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\848337694e969f557867fc4c71ee4df1\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\de983ce595cc890b2d4203f95c95cbc2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\de983ce595cc890b2d4203f95c95cbc2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\931dc0732495a48676338e3096e222d8\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\931dc0732495a48676338e3096e222d8\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\1606b3689a512e702c708aeff54dc275\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\1606b3689a512e702c708aeff54dc275\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\53a136253a346194954ba8d49e55508c\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\53a136253a346194954ba8d49e55508c\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\0053af6d543e80f2eca2dfa34c8f8cd4\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\0053af6d543e80f2eca2dfa34c8f8cd4\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\54d979b97cccdbacfd20983c6e6fa172\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\54d979b97cccdbacfd20983c6e6fa172\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\694c26a5b2f5f971c67e70ae0fee62cd\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\694c26a5b2f5f971c67e70ae0fee62cd\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\6686ec5f2e2ab44ae21c1eb445c99a3b\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\6686ec5f2e2ab44ae21c1eb445c99a3b\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\25f9131f098f8a4ac4a98754913f6b72\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\25f9131f098f8a4ac4a98754913f6b72\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\a7f0b0af0b8bf1f81bd2e824811a5547\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\a7f0b0af0b8bf1f81bd2e824811a5547\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\58f91a9ca0994ae02be35d76a8d8620d\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\58f91a9ca0994ae02be35d76a8d8620d\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\f2e189d9c9c6a4d1eca5e283d6c960d7\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\f2e189d9c9c6a4d1eca5e283d6c960d7\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\f8071bc478da969c504fd95a5be6aaf8\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\f8071bc478da969c504fd95a5be6aaf8\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\aeb7294d6d68d8c7eedcd7bf25b6a920\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\aeb7294d6d68d8c7eedcd7bf25b6a920\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ade294bed9caf3f29b70e263efe27c86\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ade294bed9caf3f29b70e263efe27c86\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\b550f02102518269b5ae49ce098d1bbd\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\b550f02102518269b5ae49ce098d1bbd\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ecf2828b954b598dde19702f30d5ac54\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\ecf2828b954b598dde19702f30d5ac54\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\780607b29fa9b8b916b13db491ef41f2\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\780607b29fa9b8b916b13db491ef41f2\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\178d52fd0f4d875d0c412c649f532470\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\178d52fd0f4d875d0c412c649f532470\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\d8ef00b68490a45f49fd0664d6982489\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\d8ef00b68490a45f49fd0664d6982489\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\a0712c74e2562104cfa1829d4f9a06a2\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\alton\.gradle\caches\transforms-2\files-2.1\a0712c74e2562104cfa1829d4f9a06a2\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Github\appice_mood\appice_mood\Moodlet\app\src\main\AndroidManifest.xml
